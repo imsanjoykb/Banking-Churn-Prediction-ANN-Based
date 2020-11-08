@@ -38,7 +38,7 @@
 ![Prediction Screenshot](https://github.com/paras009/ANN-based-Banking-Churn-Prediction/blob/master/images/5prediction.PNG)
 
 ## Contribution
-- The project is built completely by Paras Varshney.</br>
+- The project is built completely by Sanjoy Biswas.</br>
 Connect on [LinkedIn](https://www.linkedin.com/in/imsanjoykb)</br>
 Follow on [Github](https://github.com/imsanjoykb)</br>
 
